@@ -1,3 +1,5 @@
+const alpha = document.querySelector("#list");
+
 const menu = [
   {
     id: 1,
